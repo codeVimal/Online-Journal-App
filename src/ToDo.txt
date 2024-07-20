@@ -1,0 +1,17 @@
+1. Replace actions with icons
+2. Add navbar
+3. add remainders
+
+
+<!-- HTML !-->
+<button class="button-81" role="button">Button 81</button>
+
+/* CSS */
+
+
+@media (min-width: 768px) {
+  .button-81 {
+    font-size: 1.125rem;
+    padding: 1rem 2rem;
+  }
+}

@@ -1,0 +1,6 @@
+.react-calendar targets the main calendar container element.
+.react-calendar__tile--now targets the current date tile.
+.react-calendar__tile--active targets the selected date tile.
+.react-calendar__tile--hover targets the tile that's currently being hovered over.
+.react-calendar__tile--active:enabled:hover targets the selected date tile that's being hovered over.
+You can modify these styles to fit your own design preferences. For example, you can change the font family, font size, colors, borders, and more.
